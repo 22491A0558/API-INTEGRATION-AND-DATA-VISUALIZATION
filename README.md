@@ -28,4 +28,6 @@ This project demonstrates how to integrate real-world data with data visualizati
 
 #OUTPUTS
 
+![Image](https://github.com/user-attachments/assets/b8842a5b-d679-4a84-a317-223d8fdcbdf2)
+![Image](https://github.com/user-attachments/assets/acd30238-96b5-4da8-8800-dfe9b943a6b5)
 
